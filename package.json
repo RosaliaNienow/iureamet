@@ -1,0 +1,20 @@
+{
+  "name": "iureamet",
+  "version": "1.0.0",
+  "description": "Simple http server to monitor if Geth/Parity is in sync with the blockchain",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RosaliaNienow/iureamet.git"
+  },
+  "author": "ElseSpencer",
+  "bin": {
+    "eth-node-healthcheck": "./index.js"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/RosaliaNienow/iureamet.git/issues"
+  },
+  "homepage": "https://github.com/RosaliaNienow/iureamet.git"
+}
